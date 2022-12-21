@@ -1,12 +1,14 @@
 {
   "user": [
     {
+      "id": 1,
       "username": "admin",
       "password": "admin"
     }
   ],
   "sender": [
     {
+      "id": 1,
       "description": "first description",
       "value": 0.0,
       "category": 1,
