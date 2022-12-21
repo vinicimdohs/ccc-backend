@@ -1,0 +1,22 @@
+{
+  "name": "ccc-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicimdohs/ccc-backend.git"
+  },
+  "author": "Vinicius Fernandes de Paula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicimdohs/ccc-backend/issues"
+  },
+  "homepage": "https://github.com/vinicimdohs/ccc-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

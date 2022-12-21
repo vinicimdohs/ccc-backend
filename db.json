@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "sender": [
+    {
+      "description": "first description",
+      "value": 0.0,
+      "category": 1,
+      "date": "11/02/22",
+      "isInstallments": false,
+      "installments": 0,
+      "isExpense": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "description": "categoria"
+    }
+  ]
+}
